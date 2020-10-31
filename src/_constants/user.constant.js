@@ -1,0 +1,6 @@
+export const userConstant = {
+	LOGIN_SUCCESS: 'USER_LOGIN_SUCCESS',
+	LOGOUT: 'USER_LOGOUT',
+
+	REFRESH: 'USER_REFRESH'
+};

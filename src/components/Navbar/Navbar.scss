@@ -1,0 +1,26 @@
+.navbar__link {
+	margin: 10px;
+	font-size: 16px;
+	cursor: pointer;
+	text-decoration: none;
+	color: rgba(255,255,255,.5);
+	border-bottom: 3px solid transparent;
+
+	&:hover {
+		color: #fff;
+		text-decoration: none;
+	}
+
+	&.navbar__link--active {
+		color: #fff;
+	}
+}
+
+.logout__btn, .notification__ico {
+	cursor: pointer;
+
+	&:hover {
+		color: #fff !important;
+		text-decoration: none;
+	}
+}

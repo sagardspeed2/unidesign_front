@@ -1,0 +1,4 @@
+export const departmentConstant = {
+	GET_ALL: 'GET_ALL_DEPARTMENT',
+	GET_USERS_FROM_DEPARTMENT: 'GET_USERS_FROM_DEPARTMENT'
+};
